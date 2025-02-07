@@ -1,1 +1,1 @@
-# Eventify
+# 😎Eventify
