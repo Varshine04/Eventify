@@ -53,7 +53,7 @@
         - Name
         - Email
         - Mobile Number
-        - 
+        r 
 **Organizer Pages**
 
 1. Organizer Authentication Page
